@@ -1,0 +1,75 @@
+Number,Event_Title,Event_Code,Start_Date
+1,2013 Ratemaking and Product Management Seminar & Workshops,2013RPM,3/11/2013
+2,2013 CAS Spring Meeting,13Spring,5/19/2013
+3,2013 Seminar on Reinsurance,2013REINS,6/6/2013
+4,2013 Casualty Loss Reserve Seminar & Workshops,13CLRS,9/15/2013
+5,2013 CAS Annual Meeting,13Annual,11/3/2013
+6,2014 Ratemaking and Product Management Seminar & Workshops,2014RPM,3/30/2014
+7,2014 Seminar on Reinsurance,2014REINS,5/21/2014
+8,2014 CLRS & Workshops,14CLRS,9/15/2014
+9,2014 CAS Centennial Celebration and Annual Meeting,14Annual,11/9/2014
+10,2015 Ratemaking and Product Management Seminar & Workshops,2015RPM,3/9/2015
+11,2015 CAS Spring Meeting,15Spring,5/17/2015
+12,2015 Seminar on Reinsurance,2015REINS,6/1/2015
+13,2015 CLRS & Workshops,15CLRS,9/9/2015
+14,2015 CAS Interactive Live Streaming: CLRS,15LIVECLRS,9/10/2015
+15,2015 CAS Annual Meeting,15Annual,11/15/2015
+16,2016 Ratemaking and Product Management Seminar & Workshops,2016RPM,3/13/2016
+17,2016 CAS Spring Meeting,16Spring,5/15/2016
+18,2016 CAS Interactive Live Streaming: Spring,16LIVESPR,5/17/2016
+19,2016 CAS Seminar on Reinsurance,2016REINS,6/6/2016
+20,2016 CLRS & Workshops,16CLRS,9/18/2016
+21,2016 CAS Interactive Live Streaming: CLRS,16LIVECLRS,9/19/2016
+22,2016 CAS Annual Meeting,16Annual,11/13/2016
+23,2017 Ratemaking and Product Management Seminar & Workshops,17RPM,3/27/2017
+24,2017 CAS Spring Meeting,17Spring,5/21/2017
+25,2017 CAS Interactive Live Streaming: Spring,LIVESPR,5/23/2017
+26,2017 CAS Seminar on Reinsurance,2017REINS,6/5/2017
+27,2017 CLRS & Workshops,17CLRS,9/10/2017
+28,2017 CAS Interactive Live Stream: Casualty Loss Reserve Seminar,17CLRSLS,9/11/2017
+29,2017 CAS Annual Meeting,17Annual,11/5/2017
+30,2017 CAS Interactive Live Streaming: Annual,17LIVEANN,11/7/2017
+31,2018 RPM Seminar & Workshops,18RPM,3/19/2018
+32,2018 CAS Spring Meeting,18Spring,5/13/2018
+33,2018 CAS Interactive Live Streaming: Spring,LIVESPR,5/15/2018
+34,2018 CAS Reinsurance Seminar,2018REINS,6/4/2018
+35,2018 CLRS & Workshops,18CLRS,9/5/2018
+36,2018 CAS Interactive Live Stream: Casualty Loss Reserve Seminar,18CLRSLS,9/6/2018
+37,2018 CAS Annual Meeting,18Annual,11/11/2018
+38,2018 CAS Interactive Live Streaming: Annual,18LIVEANN,11/13/2018
+39,2018 CAS Interactive Live Streaming: Annual,18LIVEANN2,11/13/2018
+40,2019 RPM Seminar & Workshops,19RPM,3/25/2019
+41,2019 CAS Interactive Live Streaming: RPM,19LIVERPM,3/26/2019
+42,2019 CAS Spring Meeting,19Spring,5/19/2019
+43,2019 CAS Interactive Live Streaming: Spring,LIVESPR,5/21/2019
+44,2019 CAS Reinsurance Seminar,2019REINS,6/3/2019
+45,2019 CAS Interactive Live Streaming: Reinsurance Seminar,REILS,6/3/2019
+46,2019 CLRS & Workshops,19CLRS,9/16/2019
+47,2019 CAS Interactive Live Stream: Casualty Loss Reserve Seminar,19CLRSLS,9/17/2019
+48,2019 CAS Annual Meeting,19Annual,11/10/2019
+49,2019 CAS Interactive Live Streaming: Annual,19LIVEANN,11/12/2019
+50,2020 Virtual CAS Spring Meeting,20VirSprng,5/11/2020
+51,2020 Virtual CAS Seminar on Reinsurance,20VREINS,6/1/2020
+52,"2020 Virtual CAS Ratemaking, Product, and Modeling Seminar",20VRPM,7/28/2020
+53,2020 Virtual CLRS,20VRCLRS,9/15/2020
+54,2020 Virtual CAS Annual Meeting,20VirAnn,11/10/2020
+55,"2021 Virtual CAS Ratemaking, Product, and Modeling Seminar",21VRPM,3/15/2021
+56,2021 Virtual CAS Spring Meeting,21VirSprng,5/25/2021
+57,2021 Virtual CAS Seminar on Reinsurance,21VREINS,6/8/2021
+58,2021 Virtual CLRS,21VRCLRS,9/13/2021
+59,2021 CAS Annual Meeting,21Annual,11/7/2021
+60,2021 CAS Interactive Live Streaming: Annual,21LiveAnn,11/8/2021
+61,2022 RPM Virtual Seminar,RPMLive22,3/15/2022
+62,2022 CAS Spring Meeting,22Spring,5/15/2022
+63,2022 CAS Interactive Live Streaming: Spring,22LiveSpr,5/16/2022
+64,2022 Virtual CAS Seminar on Reinsurance,22VREINS,6/13/2022
+65,2022 CLRS & Workshops,22CLRS,9/18/2022
+66,2022 CAS Interactive Live Streaming: CLRS,22LiveCLRS,9/19/2022
+67,2022 CAS Annual Meeting,22Annual,11/6/2022
+68,2022 CAS Interactive Live Streaming: Annual,22LiveANN,11/7/2022
+69,"2023 Ratemaking, Product, and Modeling Seminar",23RPM,3/13/2023
+70,2023 CAS Interactive Livestream RPM,23LIVERPM,3/14/2023
+71,2023 CAS Spring Meeting,23Spring,5/7/2023
+72,2023 CAS Interactive Live Streaming: Spring,23LiveSpr,5/8/2023
+73,2023 CAS Seminar on Reinsurance,23REI,6/5/2023
+74,2023 CAS Interactive Livestream Reinsurance,23LIVEREI,6/5/2023
